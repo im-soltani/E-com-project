@@ -7,6 +7,7 @@ export default ({listcat}) => (
     className="carouselItems"
     showThumbs={false}
     showStatus={false}
+    centerSlidePercentage
   >
     {
       listcat.map((el, index) => (

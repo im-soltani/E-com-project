@@ -22,6 +22,7 @@ const TopBar = ({ active, setActive }) => {
   const { userInfo } = userSignin;
   const dispatch = useDispatch();
   const history = useHistory();
+  console.log(userInfo,"kkkkk")
 
   const onLogin = () => {
     setActive("");

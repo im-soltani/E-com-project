@@ -512,7 +512,7 @@ tbody > tr:nth-child(odd) {
 .carouselImage,
 .item,
 .slider-wrapper {
-  height: 650px;
+  height: 350px;
 }
 
 .thumbs-wrapper {

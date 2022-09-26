@@ -73,27 +73,27 @@ const listcat = [
   {
     title: "Cat1",
     description: "Une description 1",
-    image: "http://lorempixel.com/output/cats-q-c-640-480-10.jpg",
+    image: "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
   },
   {
     title: "Cat2",
     description: "Une description 2",
-    image: "http://lorempixel.com/output/cats-q-c-640-480-9.jpg",
+    image: "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
   },
   {
     title: "Un Titre",
     description: "Une description",
-    image: "http://lorempixel.com/output/cats-q-c-640-480-8.jpg",
+    image: "https://pharma-shop.tn/themes/pharmashop/assets/img/modules/appagebuilder/images/cerave.jpg",
   },
   {
     title: "Un Titre",
     description: "Une description",
-    image: "http://lorempixel.com/output/cats-q-c-640-480-2.jpg",
+    image: "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
   },
   {
     title: "Un Titre",
     description: "Une description",
-    image: "http://lorempixel.com/output/cats-q-c-640-480-1.jpg",
+    image: "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
   },
 ];
 
